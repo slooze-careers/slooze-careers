@@ -1,3 +1,4 @@
+![Logo](./public/FFFFFF-1.png)
 # 🚀 Slooze - Transforming Supply Chain Technology
 
 ## 🏢 About Us
@@ -17,6 +18,13 @@ We are looking for **comrades** who want to **challenge the status quo**, **disr
 
 If you're ready to be a part of our **startup journey**, checkout our challenges for a role that best suits your skills and reach out to us at:  
 📩 **careers@slooze.xyz**  
+A few of them are 
+1) [Data Science](https://github.com/slooze-careers/data-science-analytics)
+1) [Data Engineering](https://github.com/slooze-careers/data-engineering-challenge)
+1) [Full Stack](https://github.com/slooze-careers/fullstack-challenge)
+1) [Front-End](https://github.com/slooze-careers/front-end-challenge)
+
+If you don't find a potential opportunity here, forward us your resume and pitch on how you can contribute towards Slooze's journey
 
 > **NOTE:** Please **include your resume**, along with any relevant **portfolio, website, GitHub**, or other presentations while submitting your solution.
 
