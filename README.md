@@ -19,10 +19,8 @@ We are looking for **comrades** who want to **challenge the status quo**, **disr
 If you're ready to be a part of our **startup journey**, checkout our challenges for a role that best suits your skills and reach out to us at:  
 📩 **careers@slooze.xyz**  
 A few of them are 
-1) [Front-End](https://github.com/slooze-careers/front-end-challenge)   [open-positions: 2️⃣ full-time, 1️⃣ Intern ]
-2) [Data Engineering](https://github.com/slooze-careers/data-engineering-challenge) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
-3) [Full Stack](https://github.com/slooze-careers/fullstack-challenge) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
-4) [Data Science](https://github.com/slooze-careers/data-science-analytics) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
+1) [Front-End](https://github.com/slooze-careers/front-end-challenge)   [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
+2) [Full Stack](https://github.com/slooze-careers/fullstack-challenge) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
 
 
 If you don't find a potential opportunity here, forward us your resume and pitch on how you can contribute towards Slooze's journey
