@@ -23,7 +23,7 @@ A few of them are
 2) [Data Engineering](https://github.com/slooze-careers/data-engineering-challenge) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
 3) [Full Stack](https://github.com/slooze-careers/fullstack-challenge) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
 4) [Data Science](https://github.com/slooze-careers/data-science-analytics) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
-
+5) [Business Development Associate](https://github.com/slooze-careers/business-development) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
 
 If you don't find a potential opportunity here, forward us your resume and pitch on how you can contribute towards Slooze's journey
 
