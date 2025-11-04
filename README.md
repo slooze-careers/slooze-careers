@@ -33,21 +33,21 @@ If you don't find a potential opportunity here, forward us your resume and pitch
 
 ## 🔍 What We Look For
 We are seeking candidates who:
-✅ Are **looking for a full-time role**
-✅ **Communicate effectively** and collaborate in a **team-oriented environment** 
-✅ **Tackle complex challenges** and think outside the box  
-✅ Have a **passion for innovation & continuous improvement**  
-✅ Have a **drive to get things done & make things happen**  
-✅ Can **adapt, learn, and lead** in a **fast-paced, evolving** environment  
+- ✅ Are **looking for a full-time role**
+- ✅ **Communicate effectively** and collaborate in a **team-oriented environment**
+- ✅ **Tackle complex challenges** and think outside the box  
+- ✅ Have a **passion for innovation & continuous improvement**
+- ✅ Have a **drive to get things done & make things happen**
+- ✅ Can **adapt, learn, and lead** in a **fast-paced, evolving environment**
 
 ---
 
 ## 🌟 Why Join Us?
 Here's what’s in for you:
-🚀 **The chance to work in a dynamic, high-growth startup**
-🔧 **Access to cutting-edge technology & tools** to build the next-gen supply chain tech
-📈 **Opportunities for career advancement & growth** as we scale
-🏆 **A key role in our success** → Employee Stock Options (Equity)
+- 🚀 **The chance to work in a dynamic, high-growth startup**
+- 🔧 **Access to cutting-edge technology & tools** to build the next-gen supply chain tech
+- 📈 **Opportunities for career advancement & growth** as we scale
+- 🏆 **A key role in our success** → *Employee Stock Options (Equity)*
 
 ---
 
