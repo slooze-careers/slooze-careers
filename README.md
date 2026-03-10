@@ -5,9 +5,8 @@
 We are **Slooze**, an early-stage startup on a mission to **redefine supply chain technology**.  
 Our **team of five** brings over **45 years** of combined experience in **entrepreneurship & technology**, and we are backed by **advisors with 80+ years** of expertise across various supply chain sectors.  
 
-
 ---
-
+**Note:** The following Job postings aare updated as of March 2026 and **we are actively hiring** !!
 ### **🎯 If you're looking for a unique opportunity to...**
 ✅ Join an **early-stage startup** with **high growth potential**  
 ✅ Explore and **unleash** your **hidden talents**  
