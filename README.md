@@ -21,12 +21,12 @@ A few of them are,
 **Engineering:** 
 1) [Back-End]  (https://github.com/slooze-careers/back-end-challenge)    [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
 2) [Full Stack](https://github.com/slooze-careers/fullstack-challenge)   [open-positions: 0️⃣ full-time, 1️⃣ Intern ]
-3) [Front-End] (https://github.com/slooze-careers/front-end-challenge)   [open-positions: 0️⃣ full-time, 1️⃣ Intern ]
+3) [Front-End] (https://github.com/slooze-careers/front-end-challenge)   [open-positions: 0️⃣ full-time, 0️⃣ Intern ]
 
 **Data, Analytics, ML & AI:**
 1) [Data Engineering](https://github.com/slooze-careers/data-engineering-challenge) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
 2) [Data Science]    (https://github.com/slooze-careers/data-science-analytics)     [open-positions: 0️⃣ full-time, 1️⃣ Intern ]
-3) [AI Engineer]     (https://github.com/slooze-careers/software-engineering-AI)    [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
+3) [AI Engineer]     (https://github.com/slooze-careers/software-engineering-AI)    [open-positions: 0️⃣ full-time, 0️⃣ Intern ]
 
 **Business development:**
 1) [Business Development Associate](https://github.com/slooze-careers/business-development) [open-positions: 1️⃣ full-time, 1️⃣ Intern ]
